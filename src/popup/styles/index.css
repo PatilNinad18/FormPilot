@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  margin: 0;
+  background-color: rgb(var(--color-surface));
+  color: rgb(var(--color-ink));
+  font-family: theme('fontFamily.sans');
+}

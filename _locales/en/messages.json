@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "FormPilot AI",
+    "description": "The extension name shown in Chrome and the Web Store."
+  },
+  "appShortName": {
+    "message": "FormPilot",
+    "description": "Short name used where space is limited."
+  },
+  "appDesc": {
+    "message": "One Click. Every Form Filled. Auto-fill almost any online form from your saved profile.",
+    "description": "Store and toolbar description."
+  },
+  "actionTitle": {
+    "message": "FormPilot AI — Fill forms instantly",
+    "description": "Tooltip for the toolbar button."
+  },
+  "cmdFillDescription": {
+    "message": "Fill the current page's forms with your saved profile",
+    "description": "Description for the fill-current-form keyboard command."
+  }
+}
